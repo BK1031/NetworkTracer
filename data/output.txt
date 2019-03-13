@@ -1,0 +1,12 @@
+youtube.com,19.342,15
+facebook.com,19.538,13
+qq.com,219.168,18
+yahoo.com,38.641,14
+twitter.com,20.732,11
+live.com,16.729,13
+360.cn,25.195,13
+reddit.com,17.37,9
+blogspot.com,17.653,9
+linkedin.com,26.892,11
+yahoo.co.jp,141.532,17
+twitch.tv,18.621,9
